@@ -10,4 +10,5 @@
   (lib (name "W25Q16JVUXIQ_TR")(type "KiCad")(uri "${KIPRJMOD}/Components/W25Q16JVUXIQ_TR.kicad_sym")(options "")(descr ""))
   (lib (name "W25Q256JVEIQ")(type "KiCad")(uri "${KIPRJMOD}/Components/W25Q256JVEIQ.kicad_sym")(options "")(descr ""))
   (lib (name "UA78L05ACPK")(type "KiCad")(uri "${KIPRJMOD}/Components/UA78L05ACPK.kicad_sym")(options "")(descr ""))
+  (lib (name "MSS1P4-M3_89A")(type "KiCad")(uri "${KIPRJMOD}/Components/MSS1P4-M3_89A.kicad_sym")(options "")(descr ""))
 )
